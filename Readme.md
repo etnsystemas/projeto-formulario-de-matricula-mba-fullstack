@@ -3,3 +3,4 @@
 ### Trabalhando conceitos de Formulário
 
 - Entendendo a diferença entre a unidade de medida em e rem no CSS.
+- Inputs Semânticos
